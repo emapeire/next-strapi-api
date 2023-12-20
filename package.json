@@ -1,0 +1,16 @@
+{
+  "name": "next-strapi-api",
+  "version": "1.0.0",
+  "description": "Next.js + Strapi API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "next",
+    "strapi",
+    "api"
+  ],
+  "author": "Emanuel Peire",
+  "license": "MIT"
+}
